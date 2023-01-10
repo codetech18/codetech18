@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things and connecting with people
 - 🌱 I’m currently learning java, jsp, web dev, andriod, jsf 
 - 💞️ I’m looking to collaborate on anything profitable
-- 📫 How to reach me on twitter @koredeDev
+- 📫 How to reach me on twitter @codetech__
 
 <!---
 codetech18/codetech18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
