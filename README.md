@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @codetech18
+- 👋 Hi, I’m Akorede
 - 👀 I’m interested in learning new things and connecting with people
-- 🌱 I’m currently learning java, jsp, web dev, andriod, jsf 
-- 💞️ I’m looking to collaborate on anything profitable
+- 💞️ I’m looking to collaborate and build
 - 📫 How to reach me on twitter @codetech__
 
 <!---
